@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fondos {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enero {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0687.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.febrero {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0688.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.marzo {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0689.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.abril {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0690.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.mayo {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0691.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.junio {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0692.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.julio {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0693.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.agosto {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0694.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.septiembre {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0695.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.octubre {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0696.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.noviembre {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0697.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.diciembre {
+    background-image: url(../../../Pictures/ftosverano2021/DSC_0698.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
